@@ -1,4 +1,4 @@
-public class Caesar {
+public class Caesar implements Cipher {
     Caesar(){
 
     }

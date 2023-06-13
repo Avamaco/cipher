@@ -1,4 +1,4 @@
-public class Morse {
+public class Morse implements Cipher {
     Morse(){
 
     }
